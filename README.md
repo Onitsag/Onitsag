@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- 💻 I'm a Web & Software Developer, currently working on my Unity video game
+- 🚀 Student in computer science and work-study in a Web agency
+- 🏆 Manager of the FariSquad team, creator of the FariSun minecraft server
+- 🎯 
+- ⚡ Passionate about computers, I am interested in new technologies
