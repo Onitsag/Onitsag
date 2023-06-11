@@ -5,8 +5,8 @@
 - 💻 I'm a Web & Software Developer, currently working on my Unity video game
 - 🚀 Student in computer science and work-study in a Web agency
 - 🏆 Manager of the FariSquad team, creator of the FariSun minecraft server
-- 🎯 
-- ⚡ Passionate about computers, I am interested in new technologies
+- 🎯 Passionate about computers, I am interested in new technologies
+- ⚡ In constant search of new objectives !
 
 <h2 align="left">📊 Statistics:</h2>
 
