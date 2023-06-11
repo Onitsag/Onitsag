@@ -10,4 +10,4 @@
 
 <h2 align="left">📊 Statistics:</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Onitsag&show_icons=true&title_color=fff&icon_color=2881f7&text_color=9f9f9f&bg_color=0d1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Onitsag&show_icons=true&title_color=fff&icon_color=2881f7&text_color=cccccc&bg_color=0d1117)
