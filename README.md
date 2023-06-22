@@ -3,7 +3,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 💻 I'm a Web & Software Developer, currently working on my Unity video game
-- 🚀 Student in computer science and work-study in a Web agency
+- 🚀 Student in computer science
 - 🏆 Manager of the FariSquad team, creator of the FariSun minecraft server
 - 🎯 Passionate about computers, I am interested in new technologies
 - ⚡ In constant search of new objectives !
