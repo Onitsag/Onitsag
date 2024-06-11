@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Onitsag ! 👋</h1>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
 <img alt="GIF" align="right" src="https://i.ibb.co/MkbRWsP/0611.gif">
 
@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 align="left">📊 Statistics:</h2>
+<h2 align="left">📊 Statistics</h2>
 
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Onitsag&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,prs&bg_color=00000000">
@@ -29,7 +29,7 @@
 </p>
 
 
-<h2 align="left">Languages:</h2>
+<h2 align="left">Languages</h2>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=black&logo=OpenAI&logoColor=412991)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=003545)
@@ -83,4 +83,4 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=FC6D26)
 
 
-![Les infos de Kévin](https://github-readme-activity-graph.vercel.app/graph?username=Onitsag&custom_title=Onitsag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Graphique](https://github-readme-activity-graph.vercel.app/graph?username=Onitsag&custom_title=Onitsag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
