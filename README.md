@@ -55,11 +55,13 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=52B0E7)
 
-<h2 align="left">Tools & Platforms</h2>
+<h2 align="left">Tools</h2>
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=black&logo=OpenAI&logoColor=412991)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=FC6D26)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=5391FE)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)
 ![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&labelColor=black&logo=pnpm&logoColor=F69220)
@@ -70,27 +72,15 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&labelColor=black&logo=canva&logoColor=00C4CC)
 
-<h2 align="left">Operating Systems</h2>
+<h2 align="left">Other</h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=A81D33)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)
-
-<h2 align="left">Web Servers</h2>
-
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&labelColor=black&logo=nginx&logoColor=269539)
-
-<h2 align="left">Cloud Services</h2>
-
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&labelColor=black&logo=ovh&logoColor=123F6D)
-
-<h2 align="left">Other</h2>
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=black&logo=OpenAI&logoColor=412991)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&labelColor=black&logo=libreoffice&logoColor=18A303)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=5391FE)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&labelColor=black&logo=unrealengine&logoColor=313131)
 
