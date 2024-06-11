@@ -29,7 +29,7 @@
 ⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠛⠛⠁⡇⠟⢿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀
 --->
 
-<h1 align="center">Hey, I'm Onitsag ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+<h1 align="center">Hey, I'm Onitsag ! <img src="https://i.ibb.co/MkbRWsP/0611.gif" width="30"></h1>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
