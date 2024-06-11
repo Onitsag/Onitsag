@@ -17,6 +17,18 @@
   </div>
 </div>
 
+<br>
+<br>
+<br>
+
+<img height="400" width="500" alt="GIF" align="right" src="https://i.ibb.co/MkbRWsP/0611.gif">
+
+- 💻 I am a Fullstack developer, currently working on the Jaguar tank simulator
+- 🚀 Student : Web Developer Bachelor
+- 🏆 Manager of the FariSquad team, creator of the FariSun minecraft server
+- 🎯 Passionate about computers, I am interested in new technologies
+- ⚡ In constant search of new objectives !
+
 <h2 align="left">📊 Statistics:</h2>
 
 <p align="center">
