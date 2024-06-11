@@ -44,7 +44,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://i.ibb.co/MkbRWsP/0611.gif" alt="GIF" style="max-width: 100%; height: auto;">
+    <img src="https://i.ibb.co/MkbRWsP/0611.gif" alt="GIF" height="auto">
   </div>
 </div>
 
