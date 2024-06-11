@@ -8,12 +8,14 @@
 <br>
 
 <div align="center">
-💻 Fullstack developer  
-🎖️ Working on the <a href="https://fr.wikipedia.org/wiki/Engin_blind%C3%A9_de_reconnaissance_et_de_combat">Jaguar tank</a> simulator  
-🚀 Student : Web Developer Bachelor  
-🏆 Owner of the <a href="https://farisun.fr/">FariSquad</a> team  
-🤖 Passionate about artificial intelligence  
-⚡ In constant search of new objectives !  
+  <ul>
+    <li>💻 Fullstack developer</li>
+    <li>🎖️ Working on the <a href="https://fr.wikipedia.org/wiki/Engin_blind%C3%A9_de_reconnaissance_et_de_combat">Jaguar simulator</a></li>
+    <li>🚀 Student : Web Developer Bachelor</li>
+    <li>🏆 Owner of the <a href="https://farisun.fr/">FariSquad</a> team</li>
+    <li>🤖 Passionate about artificial intelligence</li>
+    <li>⚡ In constant search of new objectives !</li>
+  </ul>
 </div>
 
 <br>
