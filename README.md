@@ -79,4 +79,4 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=FC6D26)
 
 
-![Les infos de Kévin](https://github-readme-activity-graph.vercel.app/graph?username=kevinniel&custom_title=Kevin%20NIEL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Les infos de Kévin](https://github-readme-activity-graph.vercel.app/graph?username=Onitsag&custom_title=Kevin%20NIEL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
