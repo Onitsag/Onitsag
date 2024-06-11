@@ -9,9 +9,9 @@
 
 <div align="center">
 💻 Fullstack developer  
-🎖️ Working on the [Jaguar](https://fr.wikipedia.org/wiki/Engin_blind%C3%A9_de_reconnaissance_et_de_combat) simulator  
+🎖️ Working on the <a href="https://fr.wikipedia.org/wiki/Engin_blind%C3%A9_de_reconnaissance_et_de_combat">Jaguar tank</a> simulator  
 🚀 Student : Web Developer Bachelor  
-🏆 Owner of the [FariSquad](https://farisun.fr/) team  
+🏆 Owner of the <a href="https://farisun.fr/">FariSquad</a> team  
 🤖 Passionate about artificial intelligence  
 ⚡ In constant search of new objectives !  
 </div>
