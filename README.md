@@ -73,4 +73,25 @@
 <h2 align="left">Operating Systems</h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&labelColor=
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=A81D33)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)
+
+<h2 align="left">Web Servers</h2>
+
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&labelColor=black&logo=nginx&logoColor=269539)
+
+<h2 align="left">Cloud Services</h2>
+
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&labelColor=black&logo=ovh&logoColor=123F6D)
+
+<h2 align="left">Other</h2>
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=black&logo=OpenAI&logoColor=412991)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&labelColor=black&logo=libreoffice&logoColor=18A303)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=5391FE)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&labelColor=black&logo=unrealengine&logoColor=313131)
+
+![Graphique](https://github-readme-activity-graph.vercel.app/graph?username=Onitsag&custom_title=Onitsag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
