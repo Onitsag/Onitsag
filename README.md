@@ -48,7 +48,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=000000)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&labelColor=black&logo=expo&logoColor=000020)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=52B0E7)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&labelColor=black&logo=socketdotio&logoColor=010101)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=5391FE)
