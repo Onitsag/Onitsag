@@ -31,18 +31,14 @@
 
 <h1 align="center">Hey, I'm Onitsag ! 👋</h1>
 
-<div align="center">
-  <img src="https://i.ibb.co/MkbRWsP/0611.gif" alt="GIF">
-</div>
-
-<table>
-  <tr>
-    <td colspan="2">
+<table style="border: none; background-color: transparent; width: 100%;">
+  <tr style="border: none;">
+    <td colspan="2" style="border: none;">
       <h2 align="left">👨🏻‍💻 About Me:</h2>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top;">
       <ul>
         <li>💻 I am a Fullstack developer, currently working on the Jaguar tank simulator</li>
         <li>🚀 Student : Web Developer Bachelor</li>
@@ -51,7 +47,7 @@
         <li>⚡ In constant search of new objectives !</li>
       </ul>
     </td>
-    <td>
+    <td style="border: none; vertical-align: top;">
       <img src="https://i.ibb.co/MkbRWsP/0611.gif" alt="GIF" width="300">
     </td>
   </tr>
