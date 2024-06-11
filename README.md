@@ -17,6 +17,7 @@
 </div>
 
 <br>
+<br>
 
 <h2 align="left">📊 Statistics</h2>
 
