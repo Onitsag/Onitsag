@@ -33,9 +33,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <ul style="list-style: none; padding-left: 0;">
+<div align="center">
+  <div align="left">
+    <ul>
       <li>💻 I am a Fullstack developer, currently working on the Jaguar tank simulator</li>
       <li>🚀 Student : Web Developer Bachelor</li>
       <li>🏆 Manager of the FariSquad team, creator of the FariSun minecraft server</li>
@@ -43,7 +43,7 @@
       <li>⚡ In constant search of new objectives !</li>
     </ul>
   </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
+  <div align="right">
     <img src="https://i.ibb.co/MkbRWsP/0611.gif" alt="GIF" style="max-width: 100%; height: auto;">
   </div>
 </div>
