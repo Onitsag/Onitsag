@@ -33,7 +33,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div style="display: flex;">
+<div style="display: flex; border: 1px solid red;">
   <div width="50%">
     <ul>
       <li>💻 I am a Fullstack developer, currently working on the Jaguar tank simulator</li>
