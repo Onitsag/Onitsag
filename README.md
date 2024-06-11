@@ -4,11 +4,13 @@
 
 <img alt="GIF" align="right" src="https://i.ibb.co/MkbRWsP/0611.gif">
 
+<br>
 - 💻 I am a Fullstack developer, currently working on the Jaguar tank simulator
 - 🚀 Student : Web Developer Bachelor
 - 🏆 Manager of the FariSquad team, creator of the FariSun minecraft server
 - 🎯 Passionate about computers, I am interested in new technologies
 - ⚡ In constant search of new objectives !
+<br>
 
 <h2 align="left">📊 Statistics:</h2>
 
