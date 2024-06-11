@@ -33,7 +33,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center;">
   <div>
     <ul style="list-style: none; padding-left: 0;">
       <li>💻 I am a Fullstack developer, currently working on the Jaguar tank simulator</li>
