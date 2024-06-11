@@ -31,7 +31,7 @@
 
 <h1 align="center">Hey, I'm Onitsag ! 👋</h1>
 
-<img src="https://i.ibb.co/MkbRWsP/0611.gif">
+<img src="https://i.ibb.co/MkbRWsP/0611.gif" align=center>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
