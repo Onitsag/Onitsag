@@ -7,9 +7,9 @@
 <br>
 <br>
 
-- 💻 I am a Fullstack developer, currently working on the Jaguar tank simulator
+- 💻 I am a Fullstack developer, currently working on the [Jaguar](https://fr.wikipedia.org/wiki/Engin_blind%C3%A9_de_reconnaissance_et_de_combat) simulator
 - 🚀 Student : Web Developer Bachelor
-- 🏆 Manager of the FariSquad team, creator of the FariSun minecraft server
+- 🏆 Manager of the FariSquad team, creator of the [FariSun](https://farisun.fr/) minecraft server
 - 🎯 Passionate about computers, I am interested in new technologies
 - ⚡ In constant search of new objectives !
 
