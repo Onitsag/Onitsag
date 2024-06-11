@@ -35,13 +35,23 @@
   <img src="https://i.ibb.co/MkbRWsP/0611.gif" alt="GIF">
 </div>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- 💻 I am a Fullstack developer, currently working on the Jaguar tank simulator
-- 🚀 Student : Web Developer Bachelor
-- 🏆 Manager of the FariSquad team, creator of the FariSun minecraft server
-- 🎯 Passionate about computers, I am interested in new technologies
-- ⚡ In constant search of new objectives !
+<table>
+  <tr>
+    <td>
+      <h2 align="left">👨🏻‍💻 About Me:</h2>
+      <ul>
+        <li>💻 I am a Fullstack developer, currently working on the Jaguar tank simulator</li>
+        <li>🚀 Student : Web Developer Bachelor</li>
+        <li>🏆 Manager of the FariSquad team, creator of the FariSun minecraft server</li>
+        <li>🎯 Passionate about computers, I am interested in new technologies</li>
+        <li>⚡ In constant search of new objectives !</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.ibb.co/MkbRWsP/0611.gif" alt="GIF" width="300">
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">📊 Statistics:</h2>
 
