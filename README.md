@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <ul style="list-style: none; padding-left: 0;">
+  <ul style="list-style-type: none; padding-left: 0;">
     <li>💻 Fullstack developer</li>
     <li>🎖️ Working on the <a href="https://fr.wikipedia.org/wiki/Engin_blind%C3%A9_de_reconnaissance_et_de_combat">Jaguar simulator</a></li>
     <li>🚀 Student : Web Developer Bachelor</li>
