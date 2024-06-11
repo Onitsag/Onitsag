@@ -37,8 +37,12 @@
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
       <h2 align="left">👨🏻‍💻 About Me:</h2>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <ul>
         <li>💻 I am a Fullstack developer, currently working on the Jaguar tank simulator</li>
         <li>🚀 Student : Web Developer Bachelor</li>
