@@ -64,5 +64,3 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)
 
 ![Graphique](https://github-readme-activity-graph.vercel.app/graph?username=Onitsag&custom_title=Onitsag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-![Commits](https://raw.githubusercontent.com/Onitsag/Onitsag/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Commits](https://raw.githubusercontent.com/Onitsag/Onitsag/output/github-contribution-grid-snake.svg#gh-light-mode-only)
