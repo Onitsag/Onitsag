@@ -11,7 +11,6 @@
   <div align="center">💻 Fullstack developer</div>
   <div align="center">🎖️ Working on the <a href="https://fr.wikipedia.org/wiki/Engin_blind%C3%A9_de_reconnaissance_et_de_combat">Jaguar simulator</a></div>
   <div align="center">🚀 Student : MBA Developer Fullstack (BAC+5)</div>
-  <div align="center">🏆 Owner of the <a href="https://farisun.fr/">FariSquad</a> team</div>
   <div align="center">🤖 Passionate about artificial intelligence</div>
   <div align="center">⚡ In constant search of new objectives !</div>
 </div>
